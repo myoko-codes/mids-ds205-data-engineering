@@ -1,0 +1,69 @@
+{
+  "creator": "Acme Gourmet Meals",
+  "timestamp": "2021-07-10 14:34:59",
+  "file_name": "temp_holidays_header.json",
+  "version": "12.4.7",
+  "legal": "Unauthorized use, duplication, or possession, blah, blah",
+  "data": [
+    {
+      "holiday_date": "2020-01-01",
+      "description": "New Year's Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-01-20",
+      "description": "MLK Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-02-17",
+      "description": "President's Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-04-12",
+      "description": "Easter",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-05-10",
+      "description": "Mother's Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-05-25",
+      "description": "Memorial Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-06-21",
+      "description": "Father's Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-07-04",
+      "description": "Independence Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-09-07",
+      "description": "Labor Day",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-11-11",
+      "description": "Veterans Days",
+      "closed_flag": false
+    },
+    {
+      "holiday_date": "2020-11-26",
+      "description": "Thanksgiving",
+      "closed_flag": true
+    },
+    {
+      "holiday_date": "2020-12-25",
+      "description": "Christmas",
+      "closed_flag": true
+    }
+  ]
+}

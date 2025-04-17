@@ -1,0 +1,51 @@
+customer_key,customer_id,first_name,last_name,street,city,state,zip,distance
+837856,563,Rose,Slimings,38 Iowa Street,Berkeley,CA,94704,1
+838890,1597,Norry,Macauley,654 Sommers Plaza,Oakland,CA,94612,3
+839251,1958,Theresina,Penswick,5975 Twin Pines Hill,Berkeley,CA,94707,3
+839284,1991,Kevon,Wickett,472 Arizona Court,Berkeley,CA,94707,3
+840784,3491,Siouxie,M'Quharge,747 Westridge Center,Alameda,CA,94501,6
+841452,4159,Cheryl,Broe,7 Ruskin Alley,El Sobrante,CA,94803,7
+841491,4198,Andreana,Drew,11039 Cordelia Alley,El Sobrante,CA,94803,7
+841553,4260,Dom,Risbrough,3 Northland Crossing,Richmond,CA,94805,7
+842687,5394,Katharina,Bavester,522 Cordelia Lane,San Francisco,CA,94102,10
+844075,6782,Lyndsay,Iuorio,4 Thackeray Road,Walnut Creek,CA,94596,12
+846339,9046,Beth,Scotchmor,6070 Merchant Park,Seattle,WA,98112,2
+846482,9189,Cornell,Brammar,94261 Sunnyside Junction,Seattle,WA,98112,2
+846591,9298,Cecilla,Lewry,987 Kim Terrace,Seattle,WA,98144,2
+846821,9528,Markos,Toderi,6434 Mallard Way,Seattle,WA,98119,3
+847588,10295,Debby,Leber,1660 Bluejay Circle,Mercer Island,WA,98040,5
+848584,11291,Dasi,Radden,18 Hoepker Court,Seattle,WA,98136,6
+849072,11779,Emlynne,Takle,1 Johnson Park,Seattle,WA,98125,7
+849453,12160,Sim,Dorie,6709 Bayside Hill,Seattle,WA,98146,8
+849786,12493,Lula,Stoneman,2 Gateway Center,Kirkland,WA,98034,9
+851753,14460,Shannon,Morrall,12076 Lotheville Circle,Port Orchard,WA,98366,13
+852774,15481,Raquel,Ansill,57 Fordem Circle,Dallas,TX,75201,1
+853003,15710,Ted,Campany,91111 West Road,Dallas,TX,75219,1
+853092,15799,Zackariah,McCreath,64828 Farwell Terrace,Dallas,TX,75219,1
+853769,16476,Yancey,Lamyman,3078 Emmet Junction,Dallas,TX,75206,3
+854225,16932,Betta,Swatland,7060 Merchant Pass,Dallas,TX,75210,4
+854296,17003,Pryce,Slafford,172 Bunker Hill Drive,Dallas,TX,75210,4
+855004,17711,Sheffield,Dunkerton,11 Quincy Parkway,Dallas,TX,75225,5
+856519,19226,Christin,Penny,3452 Muir Hill,Dallas,TX,75238,8
+856787,19494,Brianne,Dundendale,7 Mcbride Center,Dallas,TX,75240,9
+857247,19954,Merell,Cruikshanks,5 Armistice Road,Mesquite,TX,75150,10
+859966,22673,Sue,Delepine,117 Hauk Trail,Miami,FL,33137,3
+860310,23017,Darb,Goucher,654 Glendale Parkway,Miami,FL,33133,4
+860612,23319,Brnaba,Challicombe,22008 Jay Circle,Miami,FL,33142,4
+860640,23347,Royce,Fielders,8 Hermina Parkway,Key Biscayne,FL,33149,4
+861195,23902,Joice,Chidgey,7996 Loeprich Alley,Miami,FL,33138,6
+861307,24014,Michale,Caudle,322 Washington Parkway,Miami Beach,FL,33141,6
+862560,25267,Tobin,Pude,70078 Porter Court,Miami,FL,33166,9
+862632,25339,Lucilia,Logg,62940 Towne Terrace,Miami,FL,33166,9
+864175,26882,Billy,Cattini,6858 Burning Wood Avenue,Miami,FL,33175,14
+864673,27380,Juliette,Simoncello,485 Hazelcrest Alley,Fort Lauderdale,FL,33312,22
+864947,27654,Nestor,Winfred,593 American Ash Hill,Nashville,TN,37208,2
+865021,27728,Gus,Haliburton,11 Sommers Crossing,Nashville,TN,37208,2
+865219,27926,Kerrin,Bridel,4582 Roth Street,Nashville,TN,37212,2
+865290,27997,Meagan,Gussin,73526 2nd Terrace,Nashville,TN,37212,2
+865560,28267,Frederica,Cabrer,99 Rutledge Trail,Nashville,TN,37204,4
+866043,28750,Jareb,Girt,316 Saint Paul Point,Nashville,TN,37207,5
+866578,29285,Ezmeralda,McCreadie,30 Gulseth Terrace,Nashville,TN,37215,6
+867076,29783,Nobie,Nuemann,955 Beilfuss Place,Madison,TN,37115,8
+867215,29922,Garwin,Aleksankin,7 Delaware Place,Madison,TN,37115,8
+867477,30184,Mindy,Bockh,50432 Sachs Road,Brentwood,TN,37027,11

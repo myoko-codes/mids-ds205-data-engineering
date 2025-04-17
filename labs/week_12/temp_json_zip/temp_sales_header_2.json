@@ -1,0 +1,359 @@
+{
+  "creator": "Acme Gourmet Meals",
+  "timestamp": "2021-07-10 23:47:49",
+  "file_name": "temp_sales_header_2.json",
+  "version": "12.4.7",
+  "legal": "Unauthorized use, duplication, or possession, blah, blah",
+  "data": [
+    {
+      "store_id": 1,
+      "sale_id": 128112,
+      "customer_id": 3491,
+      "sale_date": "2020-04-30",
+      "total_amount": 24
+    },
+    {
+      "store_id": 1,
+      "sale_id": 144249,
+      "customer_id": 1597,
+      "sale_date": "2020-05-16",
+      "total_amount": 84
+    },
+    {
+      "store_id": 1,
+      "sale_id": 163141,
+      "customer_id": 4159,
+      "sale_date": "2020-06-04",
+      "total_amount": 96
+    },
+    {
+      "store_id": 1,
+      "sale_id": 169216,
+      "customer_id": 4198,
+      "sale_date": "2020-06-09",
+      "total_amount": 144
+    },
+    {
+      "store_id": 1,
+      "sale_id": 179181,
+      "customer_id": 5394,
+      "sale_date": "2020-06-18",
+      "total_amount": 48
+    },
+    {
+      "store_id": 1,
+      "sale_id": 181897,
+      "customer_id": 1958,
+      "sale_date": "2020-06-20",
+      "total_amount": 48
+    },
+    {
+      "store_id": 1,
+      "sale_id": 248269,
+      "customer_id": 4260,
+      "sale_date": "2020-08-22",
+      "total_amount": 60
+    },
+    {
+      "store_id": 1,
+      "sale_id": 250031,
+      "customer_id": 6782,
+      "sale_date": "2020-08-23",
+      "total_amount": 24
+    },
+    {
+      "store_id": 1,
+      "sale_id": 255285,
+      "customer_id": 563,
+      "sale_date": "2020-08-29",
+      "total_amount": 36
+    },
+    {
+      "store_id": 1,
+      "sale_id": 263524,
+      "customer_id": 1991,
+      "sale_date": "2020-09-07",
+      "total_amount": 48
+    },
+    {
+      "store_id": 2,
+      "sale_id": 105004,
+      "customer_id": 12160,
+      "sale_date": "2020-04-23",
+      "total_amount": 36
+    },
+    {
+      "store_id": 2,
+      "sale_id": 109083,
+      "customer_id": 11291,
+      "sale_date": "2020-04-27",
+      "total_amount": 132
+    },
+    {
+      "store_id": 2,
+      "sale_id": 115446,
+      "customer_id": 11779,
+      "sale_date": "2020-05-03",
+      "total_amount": 12
+    },
+    {
+      "store_id": 2,
+      "sale_id": 115912,
+      "customer_id": 9298,
+      "sale_date": "2020-05-04",
+      "total_amount": 48
+    },
+    {
+      "store_id": 2,
+      "sale_id": 119996,
+      "customer_id": 14460,
+      "sale_date": "2020-05-08",
+      "total_amount": 36
+    },
+    {
+      "store_id": 2,
+      "sale_id": 144107,
+      "customer_id": 9046,
+      "sale_date": "2020-06-06",
+      "total_amount": 96
+    },
+    {
+      "store_id": 2,
+      "sale_id": 158290,
+      "customer_id": 9189,
+      "sale_date": "2020-06-20",
+      "total_amount": 84
+    },
+    {
+      "store_id": 2,
+      "sale_id": 203726,
+      "customer_id": 12493,
+      "sale_date": "2020-08-08",
+      "total_amount": 132
+    },
+    {
+      "store_id": 2,
+      "sale_id": 217889,
+      "customer_id": 10295,
+      "sale_date": "2020-08-23",
+      "total_amount": 24
+    },
+    {
+      "store_id": 2,
+      "sale_id": 218323,
+      "customer_id": 9528,
+      "sale_date": "2020-08-23",
+      "total_amount": 48
+    },
+    {
+      "store_id": 3,
+      "sale_id": 99402,
+      "customer_id": 17003,
+      "sale_date": "2020-05-01",
+      "total_amount": 36
+    },
+    {
+      "store_id": 3,
+      "sale_id": 131547,
+      "customer_id": 19494,
+      "sale_date": "2020-06-10",
+      "total_amount": 84
+    },
+    {
+      "store_id": 3,
+      "sale_id": 131827,
+      "customer_id": 15481,
+      "sale_date": "2020-06-11",
+      "total_amount": 108
+    },
+    {
+      "store_id": 3,
+      "sale_id": 134868,
+      "customer_id": 16476,
+      "sale_date": "2020-06-14",
+      "total_amount": 48
+    },
+    {
+      "store_id": 3,
+      "sale_id": 154102,
+      "customer_id": 17711,
+      "sale_date": "2020-07-10",
+      "total_amount": 24
+    },
+    {
+      "store_id": 3,
+      "sale_id": 164376,
+      "customer_id": 15799,
+      "sale_date": "2020-07-22",
+      "total_amount": 108
+    },
+    {
+      "store_id": 3,
+      "sale_id": 177427,
+      "customer_id": 16932,
+      "sale_date": "2020-08-06",
+      "total_amount": 24
+    },
+    {
+      "store_id": 3,
+      "sale_id": 183488,
+      "customer_id": 15710,
+      "sale_date": "2020-08-13",
+      "total_amount": 12
+    },
+    {
+      "store_id": 3,
+      "sale_id": 186881,
+      "customer_id": 19226,
+      "sale_date": "2020-08-16",
+      "total_amount": 144
+    },
+    {
+      "store_id": 3,
+      "sale_id": 209184,
+      "customer_id": 19954,
+      "sale_date": "2020-09-13",
+      "total_amount": 36
+    },
+    {
+      "store_id": 4,
+      "sale_id": 89887,
+      "customer_id": 23902,
+      "sale_date": "2020-04-30",
+      "total_amount": 48
+    },
+    {
+      "store_id": 4,
+      "sale_id": 111979,
+      "customer_id": 25267,
+      "sale_date": "2020-05-31",
+      "total_amount": 108
+    },
+    {
+      "store_id": 4,
+      "sale_id": 115633,
+      "customer_id": 25339,
+      "sale_date": "2020-06-05",
+      "total_amount": 120
+    },
+    {
+      "store_id": 4,
+      "sale_id": 137286,
+      "customer_id": 23017,
+      "sale_date": "2020-07-05",
+      "total_amount": 24
+    },
+    {
+      "store_id": 4,
+      "sale_id": 138546,
+      "customer_id": 23347,
+      "sale_date": "2020-07-08",
+      "total_amount": 96
+    },
+    {
+      "store_id": 4,
+      "sale_id": 143587,
+      "customer_id": 22673,
+      "sale_date": "2020-07-14",
+      "total_amount": 60
+    },
+    {
+      "store_id": 4,
+      "sale_id": 177033,
+      "customer_id": 24014,
+      "sale_date": "2020-08-25",
+      "total_amount": 48
+    },
+    {
+      "store_id": 4,
+      "sale_id": 177233,
+      "customer_id": 23319,
+      "sale_date": "2020-08-26",
+      "total_amount": 60
+    },
+    {
+      "store_id": 4,
+      "sale_id": 183530,
+      "customer_id": 26882,
+      "sale_date": "2020-09-02",
+      "total_amount": 144
+    },
+    {
+      "store_id": 4,
+      "sale_id": 192337,
+      "customer_id": 27380,
+      "sale_date": "2020-09-16",
+      "total_amount": 96
+    },
+    {
+      "store_id": 5,
+      "sale_id": 88989,
+      "customer_id": 27926,
+      "sale_date": "2020-05-25",
+      "total_amount": 24
+    },
+    {
+      "store_id": 5,
+      "sale_id": 104373,
+      "customer_id": 29285,
+      "sale_date": "2020-06-18",
+      "total_amount": 48
+    },
+    {
+      "store_id": 5,
+      "sale_id": 105691,
+      "customer_id": 29783,
+      "sale_date": "2020-06-20",
+      "total_amount": 24
+    },
+    {
+      "store_id": 5,
+      "sale_id": 107715,
+      "customer_id": 29922,
+      "sale_date": "2020-06-24",
+      "total_amount": 36
+    },
+    {
+      "store_id": 5,
+      "sale_id": 109305,
+      "customer_id": 28267,
+      "sale_date": "2020-06-27",
+      "total_amount": 120
+    },
+    {
+      "store_id": 5,
+      "sale_id": 126722,
+      "customer_id": 28750,
+      "sale_date": "2020-07-26",
+      "total_amount": 36
+    },
+    {
+      "store_id": 5,
+      "sale_id": 136553,
+      "customer_id": 30184,
+      "sale_date": "2020-08-09",
+      "total_amount": 36
+    },
+    {
+      "store_id": 5,
+      "sale_id": 136735,
+      "customer_id": 27728,
+      "sale_date": "2020-08-10",
+      "total_amount": 96
+    },
+    {
+      "store_id": 5,
+      "sale_id": 147541,
+      "customer_id": 27654,
+      "sale_date": "2020-08-27",
+      "total_amount": 96
+    },
+    {
+      "store_id": 5,
+      "sale_id": 157919,
+      "customer_id": 27997,
+      "sale_date": "2020-09-14",
+      "total_amount": 48
+    }
+  ]
+}

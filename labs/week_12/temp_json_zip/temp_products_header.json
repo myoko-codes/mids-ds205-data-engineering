@@ -1,0 +1,41 @@
+{
+  "creator": "Acme Gourmet Meals",
+  "timestamp": "2021-07-10 14:34:58",
+  "file_name": "temp_products_header.json",
+  "version": "12.4.7",
+  "legal": "Unauthorized use, duplication, or possession, blah, blah",
+  "data": [
+    {
+      "product_id": 1,
+      "description": "Pistachio Salmon"
+    },
+    {
+      "product_id": 2,
+      "description": "Teriyaki Chicken"
+    },
+    {
+      "product_id": 3,
+      "description": "Spinach Orzo"
+    },
+    {
+      "product_id": 4,
+      "description": "Eggplant Lasagna"
+    },
+    {
+      "product_id": 5,
+      "description": "Chicken Salad"
+    },
+    {
+      "product_id": 6,
+      "description": "Curry Chicken"
+    },
+    {
+      "product_id": 7,
+      "description": "Tilapia Piccata"
+    },
+    {
+      "product_id": 8,
+      "description": "Brocolli Stir Fry"
+    }
+  ]
+}

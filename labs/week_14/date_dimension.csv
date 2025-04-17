@@ -1,0 +1,45 @@
+date_key,date_value,dow,dow_string,month,month_string
+375037,2020-04-23,4,Thursday ,4,April    
+375041,2020-04-27,1,Monday   ,4,April    
+375044,2020-04-30,4,Thursday ,4,April    
+375045,2020-05-01,5,Friday   ,5,May      
+375047,2020-05-03,0,Sunday   ,5,May      
+375048,2020-05-04,1,Monday   ,5,May      
+375052,2020-05-08,5,Friday   ,5,May      
+375060,2020-05-16,6,Saturday ,5,May      
+375069,2020-05-25,1,Monday   ,5,May      
+375075,2020-05-31,0,Sunday   ,5,May      
+375079,2020-06-04,4,Thursday ,6,June     
+375080,2020-06-05,5,Friday   ,6,June     
+375081,2020-06-06,6,Saturday ,6,June     
+375084,2020-06-09,2,Tuesday  ,6,June     
+375085,2020-06-10,3,Wednesday,6,June     
+375086,2020-06-11,4,Thursday ,6,June     
+375089,2020-06-14,0,Sunday   ,6,June     
+375093,2020-06-18,4,Thursday ,6,June     
+375095,2020-06-20,6,Saturday ,6,June     
+375099,2020-06-24,3,Wednesday,6,June     
+375102,2020-06-27,6,Saturday ,6,June     
+375110,2020-07-05,0,Sunday   ,7,July     
+375113,2020-07-08,3,Wednesday,7,July     
+375115,2020-07-10,5,Friday   ,7,July     
+375119,2020-07-14,2,Tuesday  ,7,July     
+375127,2020-07-22,3,Wednesday,7,July     
+375131,2020-07-26,0,Sunday   ,7,July     
+375142,2020-08-06,4,Thursday ,8,August   
+375144,2020-08-08,6,Saturday ,8,August   
+375145,2020-08-09,0,Sunday   ,8,August   
+375146,2020-08-10,1,Monday   ,8,August   
+375149,2020-08-13,4,Thursday ,8,August   
+375152,2020-08-16,0,Sunday   ,8,August   
+375158,2020-08-22,6,Saturday ,8,August   
+375159,2020-08-23,0,Sunday   ,8,August   
+375161,2020-08-25,2,Tuesday  ,8,August   
+375162,2020-08-26,3,Wednesday,8,August   
+375163,2020-08-27,4,Thursday ,8,August   
+375165,2020-08-29,6,Saturday ,8,August   
+375169,2020-09-02,3,Wednesday,9,September
+375174,2020-09-07,1,Monday   ,9,September
+375180,2020-09-13,0,Sunday   ,9,September
+375181,2020-09-14,1,Monday   ,9,September
+375183,2020-09-16,3,Wednesday,9,September

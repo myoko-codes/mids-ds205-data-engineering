@@ -1,0 +1,54 @@
+{
+  "creator": "Acme Gourmet Meals",
+  "timestamp": "2021-07-10 23:30:36",
+  "file_name": "temp_stores_header.json",
+  "version": "12.4.7",
+  "legal": "Unauthorized use, duplication, or possession, blah, blah",
+  "data": [
+    {
+      "store_id": 1,
+      "street": "3000 Telegraph Ave",
+      "city": "Berkeley",
+      "state": "CA",
+      "zip": "94705",
+      "latitude": 37.8555,
+      "longitude": -122.2604
+    },
+    {
+      "store_id": 2,
+      "street": "1001 Broadway",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98122",
+      "latitude": 47.6114,
+      "longitude": -122.3214
+    },
+    {
+      "store_id": 3,
+      "street": "2510 McKinney Ave",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201",
+      "latitude": 32.7958,
+      "longitude": -96.8015
+    },
+    {
+      "store_id": 4,
+      "street": "299 SE 3rd Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33131",
+      "latitude": 25.772,
+      "longitude": -80.1891
+    },
+    {
+      "store_id": 5,
+      "street": "1202 Broadway",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "latitude": 36.1568,
+      "longitude": -86.7881
+    }
+  ]
+}
