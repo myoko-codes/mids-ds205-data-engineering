@@ -1,5 +1,5 @@
 # mids-datasci205-data-engineering
-Repo to store all of the work done in data engineering class.\
+Repo to store all of the work done in data engineering class in 2025 Spring.
 - Module 2: SQL
 - Module 3: Linux CLI
 - Module 4: Containers and Images
